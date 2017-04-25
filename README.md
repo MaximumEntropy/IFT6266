@@ -69,6 +69,8 @@ In this section, I will present some of my cherry-picked inpainted images.
 ![sample_2](/images/l2_epoch_13_samples.png)
 ![sample_3](/images/l2_epoch_27_samples.png)
 ![sample_4](/images/l2_epoch_30_samples.png)
+![sample_5](/images/l2_epoch_35_samples.png)
+![sample_6](/images/l2_epoch_37_samples.png)
 
 #### L2 + GAN
 
@@ -76,5 +78,7 @@ In this section, I will present some of my cherry-picked inpainted images.
 ![sample_2](/images/gan_epoch_27_samples.png)
 ![sample_3](/images/gan_epoch_50_samples.png)
 ![sample_4](/images/gan_epoch_54_samples.png)
+![sample_5](/images/gan_epoch_63_samples.png)
+![sample_6](/images/gan_epoch_57_samples.png)
 
 #### L2 + GAN + Caption
