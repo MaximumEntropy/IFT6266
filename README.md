@@ -65,16 +65,16 @@ In this section, I will present some of my cherry-picked inpainted images.
 
 #### L2
 
-![sample_1](l2_epoch_10_samples.png)
-![sample_2](l2_epoch_13_samples.png)
-![sample_3](l2_epoch_27_samples.png)
-![sample_4](l2_epoch_30_samples.png)
+![sample_1](/images/l2_epoch_10_samples.png)
+![sample_2](/images/l2_epoch_13_samples.png)
+![sample_3](/images/l2_epoch_27_samples.png)
+![sample_4](/images/l2_epoch_30_samples.png)
 
 #### L2 + GAN
 
-![sample_1](gan_epoch_22_samples.png)
-![sample_2](gan_epoch_27_samples.png)
-![sample_3](gan_epoch_50_samples.png)
-![sample_4](gan_epoch_54_samples.png)
+![sample_1](/images/gan_epoch_22_samples.png)
+![sample_2](/images/gan_epoch_27_samples.png)
+![sample_3](/images/gan_epoch_50_samples.png)
+![sample_4](/images/gan_epoch_54_samples.png)
 
 #### L2 + GAN + Caption
