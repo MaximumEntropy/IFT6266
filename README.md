@@ -109,7 +109,7 @@ In this section, I will present some of my cherry-picked inpainted images. All s
 
 #### L2 + WGAN + Caption
 
-![sample_1](/images/gan_caption_epoch_28_samples.png)
+![sample_1](/images/gan_caption_epoch_25_samples.png)
 ![sample_2](/images/gan_caption_epoch_32_samples.png)
 ![sample_3](/images/gan_caption_epoch_34_samples.png)
 ![sample_4](/images/gan_caption_epoch_35_samples.png)
