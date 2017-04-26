@@ -120,7 +120,7 @@ In this section, I will present some of my cherry-picked inpainted images. All s
 
 I experimented with a simple method to solve the inpainting problem using a convolutional autoencoder with a WGAN objective. I also added information from image captions using a simple baseline for sentence embeddings.
 
-The convolutional autoencoder with an L2 reconstruction objective yields reasonable results and appears to mostly predict the center as a smoothened interpolation of its surrounding. Adding the WGAN objective appeared to yield some structure to the predictions especially in the images that required inpainting the foreground and not just the background. Further, adding captions, seemed to help a little more in the quality of samples and also accelerated training (50-60 epochs for L2 + WGAN vs 30-40 epochs with captions). It also appeared to focus on drawing actual objects instead of just smoothing images as can be seen by the first sample with captions where a woman's face can be seen (if you squint really hard).
+The convolutional autoencoder with an L2 reconstruction objective yields reasonable results and appears to mostly predict the center as a smoothened interpolation of its surrounding. Adding the WGAN objective appeared to yield some structure to the predictions especially in the images that required inpainting the foreground and not just the background. Further, adding captions, seemed to help a little more in the quality of samples and also accelerated training (50-60 epochs for L2 + WGAN vs 30-40 epochs with captions). It also appeared to focus on drawing actual objects instead of just smoothing images with captions where a woman's face (first row 5th column) can be seen (if you squint really hard).
 
 
 
